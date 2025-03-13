@@ -17,6 +17,7 @@ Run the following command to start the app in development mode:
 The app will be available at: http://localhost:5173 (or as shown in the terminal).
 
 # PROJECT STRUCTURE : 
+```
 │-- src/               # Source code folder
 │-- .gitignore         # Git ignored files
 │-- README.md          # Documentation
@@ -25,6 +26,7 @@ The app will be available at: http://localhost:5173 (or as shown in the terminal
 │-- package-lock.json  # Dependency lock file
 │-- package.json       # Project metadata & dependencies
 │-- vite.config.js     # Vite configuration
+```
 
 # TECH STACK 
 React + React Context for State Management
