@@ -1,7 +1,7 @@
 # PROJECT OVERVIEW : 
 
-This is a Quiz App built using React.js React Context Recharts Framer motion Bootstrap and React Hooks that allows users to take quizzes with multiple-choice and true/false questions
-It features a clean UI designed with Bootstrap. The app includes a **dark mode toggle** for better accessibility. Additionally, Recharts is used to visualize quiz performance with interactive charts.
+This is a Quiz App built using **React.js, React Context, Recharts, Framer motion, Bootstrap and React Hooks** that allows users to take quizzes with multiple-choice and true/false questions
+It features a **clean UI designed with Bootstrap**. The app includes a **dark mode toggle** for better accessibility. Additionally, **Recharts is used to visualize quiz performance with interactive charts**.
 
 # SETUP INSTRUCTIONS :
 
