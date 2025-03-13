@@ -1,0 +1,45 @@
+[data-bs-theme="dark"] {
+  background-color: #121212 !important;
+  color: #ffffff !important;
+}
+
+[data-bs-theme="dark"] .border-end {
+  border-color: #444 !important;
+}
+
+[data-bs-theme="dark"] .btn-outline-primary {
+  border-color: #ffffff !important;
+  color: #ffffff !important;
+}
+
+[data-bs-theme="dark"] .btn-outline-primary:hover {
+  background-color: #ffffff !important;
+  color: #000000 !important;
+}
+
+[data-bs-theme="dark"] .btn-primary,
+[data-bs-theme="dark"] .btn-secondary,
+[data-bs-theme="dark"] .btn-success,
+[data-bs-theme="dark"] .btn-danger {
+  background-color: #ffffff !important;
+  color: #000000 !important;
+  border-color: #ffffff !important;
+}
+
+[data-bs-theme="dark"] .btn-primary:hover,
+[data-bs-theme="dark"] .btn-secondary:hover,
+[data-bs-theme="dark"] .btn-success:hover,
+[data-bs-theme="dark"] .btn-danger:hover {
+  background-color: #cccccc !important;
+  color: #000000 !important;
+}
+
+[data-bs-theme="dark"] button {
+  background-color: #ffffff !important;
+  color: #000000 !important;
+  border: 1px solid #ffffff !important;
+}
+
+[data-bs-theme="dark"] button:hover {
+  background-color: #e0e0e0 !important;
+}
