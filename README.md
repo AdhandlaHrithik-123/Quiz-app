@@ -36,6 +36,8 @@ Bootstrap 5 for Styling ( CSS Framework )
 React Hooks for managing quiz logic
 Framer motion for animations
 ```
+**NOTE : After attempting the quiz questions and submitting the quiz,Bargraphs and PieChart will appear on the UI**
 
+LIVE DEMO : https://quizapp-25.netlify.app/
 
 
